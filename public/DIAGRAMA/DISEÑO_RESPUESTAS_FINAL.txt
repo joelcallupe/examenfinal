@@ -1,0 +1,21 @@
+
+
+
+
+1. Explicar cual y por qué seria la mejor decisión para este sistema sobre el RNF3 y RNF4. (1pts)
+   La mejor desicion para este sistema seria utilizar framework LARAVEL para facilitar el marco de trabajo, además teniendo en cuenta que el sistema 
+   debe estar desarrollado en PHP y principalmente teniendo en cuenta la base de datos a utilizar , que seria MYSQL.
+
+2. El proyecto funcionando con la votación y la el reporte de votos por candidato. (7pts)
+
+2. vista de proceso. (3pts)
+   Imagen --> carpeta DIAGRAMA
+
+4. vista logica. (3pts)
+   Block de notas --> carpeta DIAGRAMA
+
+5. al menos 1 patron de diseño. (3pts)
+   Use el patrón de diseño ESTRUCCTURA-COMPOSITE
+
+6. al menos 1 principio SOLID. (3pts)
+   Use el principio de SINGLE RESPONSABILITY.
